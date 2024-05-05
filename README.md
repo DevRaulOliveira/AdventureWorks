@@ -14,6 +14,7 @@ As informações e técnologias utilizadas para concepção do Adventure Works f
  - Microsoft Access como Data Base;
  - Linguagem M;
  - DAX;
+ - UnsPlash, site utilizado para a aquisição de imagens sem direitos autorais.
 
 
 # Link de acesso ao Power BI
