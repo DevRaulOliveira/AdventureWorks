@@ -1,0 +1,2 @@
+# Link de acesso ao Power BI
+https://app.powerbi.com/view?r=eyJrIjoiNDY2OWM1MTUtODUxNC00NGE5LTlmNzItODk0ZGMwOWNlNjc1IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
