@@ -9,6 +9,12 @@ Vale citar que como já trabalho com essa ferramenta no dia a dia resolvi ir um 
 
 # Materiais que foram utilizados para compor a ferramenta
 
+As informações e técnologias utilizadas para concepção do Adventure Works foram:
+
+ - Microsoft Access como Data Base;
+ - Linguagem M;
+ - DAX;
+
 
 # Link de acesso ao Power BI
 https://app.powerbi.com/view?r=eyJrIjoiNDY2OWM1MTUtODUxNC00NGE5LTlmNzItODk0ZGMwOWNlNjc1IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
