@@ -7,7 +7,7 @@ A propota do projeto foi mostrar a etapa de conexão das informações do Micros
 O ponto principal deste projeto foi realizar a manipulação de dados afim de gerar informações uteis em formato de Dahsboard, utilizando Lógica de Programação e algumas formulas em DAX. Os conceitos abordados vão desde relacionamentos, até medidas e colunas calculadas, incluindo também alguns visuais disponíveis na ferramenta. 
 Vale citar que como já trabalho com essa ferramenta no dia a dia resolvi ir um passo além e também colocar em pratica o desenvolvimento de Dashboards mais harmonicos e sustentáveis, com pouca ou praticamente nenhuma tabela, porém sem deixar de demonstrar informações importantes para o usuário. Outro ponto utilizado foram as criações de botõese guias informativas e a criação de uma homepage, com o objetivo de quebrar o paradigma de que o Power BI se limita a ser um Microsoft Excel mais "bonito".
 
-# Técnologias usadas para criação do Adventure Works
+# Tecnologias usadas para criação do Adventure Works
 
 As informações e técnologias utilizadas para concepção do Adventure Works foram:
 
