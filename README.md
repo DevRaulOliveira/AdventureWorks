@@ -16,4 +16,4 @@ As informações e tecnologias utilizadas para concepção do Adventure Works fo
 
 
 # Link de acesso ao Power BI
-https://app.powerbi.com/view?r=eyJrIjoiMWE4NzgzZjItN2NmMS00NzZhLWIwNWEtNzUyMTU2OTMwNWNmIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
+https://app.powerbi.com/view?r=eyJrIjoiMWE4NzgzZjItN2NmMS00NzZhLWIwNWEtNzUyMTU2OTMwNWNmIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9&embedImagePlaceholder=true
