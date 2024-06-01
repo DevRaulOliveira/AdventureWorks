@@ -1,5 +1,8 @@
-# Projeto Adventure Works
-![PowerBi](https://miro.medium.com/v2/resize:fit:1358/1*lNFmJwW3jiYlH64Vg_BaiQ.jpeg)
+#Adventure Works
+![image](https://github.com/DevRaulOliveira/AdventureWorks/assets/168892121/f7b619b5-ce7f-41f1-88ce-af2112860a7b)
+![image](https://github.com/DevRaulOliveira/AdventureWorks/assets/168892121/d6cb3ef2-ebcb-4888-850b-2b96a15c9393)
+
+
 
 O projeto Adventure Works, foi criado ao longo do desenvolvimento da realização do curso "Técnicas Avançadas de Power BI", ministrado por Karine Lago.
 
